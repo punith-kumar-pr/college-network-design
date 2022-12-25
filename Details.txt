@@ -1,0 +1,46 @@
+Class B IP : 180.100.0.0
+subnet mask: 255.255.252.0
+Total 22 subnets used
+
+-----Used configurations, protocols, and others-------
+DHCP
+RIP
+DNS
+Web server(HTTP)
+Secure Routing
+
+
+---------Passwords--------------
+
+Central router
+Username: admin
+password: admin
+enable mode: admin
+
+Adminstration router
+Username: admin
+password: admin
+enable mode: admin
+
+Reception router
+enable mode: reception
+
+Server router
+enable mode: server
+
+Library router
+enable mode: library
+
+Hostel router
+enable mode: hostel
+
+Departments
+-------------------
+CSE  : cse
+ECE  : ece
+MECH : mech
+CIVIL: civil
+EEE  : eee
+
+
+
