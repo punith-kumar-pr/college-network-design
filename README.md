@@ -75,7 +75,7 @@ EEE  : eee
 
 ## Appendix
 
-For mono details refer the report in this repository
+For more details refer the report in this repository
 
 ---
 
